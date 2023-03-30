@@ -1,0 +1,77 @@
+.carousel-caption {
+    margin-bottom: 108px;
+    margin-left: 86px;
+
+
+}
+
+.heading-carousel {
+
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 60px;
+
+}
+.carousel-para{
+    font-size: 16px;
+    font-weight:500;
+    line-height: 28px;
+}
+
+.carousel-btn1, .carousel-btn2{
+    
+    width: 10%;
+    height:70px;
+    border-radius: 50px;
+    /* background-color: #9e6ab9; */
+    background-color: #5e068a;
+    color:white;
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+.carousel-btn1{
+    margin-top: -171px;
+    margin-left: 372px;
+}
+.carousel-btn2{
+    margin-top: -160px;
+    margin-left: 372px;
+}
+.frm{
+    border: 0px;
+}
+.formm{
+    width: 80%;
+
+}
+.submit{
+    background-color: #5e068a;
+    color:white;
+}
+.cls-btn{
+    margin-left:753px;
+}
+.r-para{
+    line-height: 28px;
+
+}
+.r-heading1{
+    font-weight:700;
+    font-size: 35px;
+    color:#5e068a;
+
+}
+.r-heading2{
+    color:#9e6ab9;
+}
+.r-button{
+    width: 22%;
+    height:60px;
+    border-radius: 50px;
+    background-color: #5e068a;
+    color:white;
+    font-weight: 600;
+    font-size: 16px;
+}
