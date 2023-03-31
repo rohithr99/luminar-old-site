@@ -11,7 +11,11 @@
     background-color: transparent;
     text-decoration: none;
 }
-
+.navbar{
+    position: sticky;
+    top:0px;
+    z-index: 1;
+}
 .carousel-caption {
     margin-bottom: 108px;
     margin-left: 86px;
