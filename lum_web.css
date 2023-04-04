@@ -3,6 +3,8 @@
 .top-bar {
     background-color: #5e068a;
     color: white;
+    font-size: 13px;
+    
 
 }
 
@@ -41,7 +43,7 @@
 .carousel-btn2 {
 
     width: 10%;
-    height: 70px;
+    height: 50px;
     border-radius: 50px;
     /* background-color: #9e6ab9; */
     background-color: #5e068a;
@@ -193,7 +195,7 @@
 
         width: 120px;
 
-        height:70px;
+        height:43px;
 
         border-radius:50px;
 
